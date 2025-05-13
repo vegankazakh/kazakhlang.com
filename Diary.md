@@ -5,3 +5,8 @@
 
     Going back to this project. 
 This should be a simple CMS project, with an ability to write articles for the admins.
+
+### 11 May
+**9:29PM**
+
+Articles need content.
